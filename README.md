@@ -1,4 +1,6 @@
-# cortex41
+# Cortex41
+
+![Architecture](architecture-diagram.png)
 
 A browser agent powered by Gemini. Message or Speak a goal, watch it execute.
 
